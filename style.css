@@ -111,7 +111,7 @@ ul li span:hover {
 }
 
 /* Media query for smaller screens */
-@media (max-width: 600px) {
+@media (max-width: 400px) {
     .row {
         flex-direction: row;
         /* Change back to row layout on smaller screens */
