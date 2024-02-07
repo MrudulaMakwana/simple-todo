@@ -128,13 +128,8 @@ ul li span:hover {
 
     button {
         width: 100%; /* Make the button full width */
-        padding: 16px; /* Adjusted padding for better responsiveness */
+        padding: 12px; /* Adjusted padding for better responsiveness */
         margin-top: 10px; /* Add some top margin for better spacing */
     }
 
-    @media (max-width: 390px) {
-        button {
-            padding: 12px; /* Adjusted padding for screens with width 390px or smaller */
-        }
-    }
 }
